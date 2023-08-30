@@ -11,9 +11,13 @@ By Alicia Robertson
 
 ## Portfolio Projects
 ### Classification
+- [Iris Data Classification](Classification/class.ipynb)
 ### Clustering
+- [Iris Data Clustering](Clustering/clust.ipynb)
 ### Linear Relations
+- [Student Data LR](LinearRelation/LR.ipynb)
 ### Essay
+- [A Guide to Machine Learning: Understanding the Fundamentals and Techniques"](essay.md)
 
 ## Libraries Used:
 - [Numpy](https://www.youtube.com/watch?v=lLRBYKwP8GQ&t=1073s)
