@@ -1,4 +1,4 @@
-#A Guide to Machine Learning: Understanding the Fundamentals and Techniques"
+# A Guide to Machine Learning: Understanding the Fundamentals and Techniques"
 
 In the contemporary world, where technology is constantly evolving, it is vital for all to understand the importance of emerging technologies and their definitive role in our perpetually changing society. Personalized algorithms and intelligent virtual assistants, among others, continue to transform the world as we know it today. Key new developments in the industry are being driven by machine learning and the vision of artificial intelligence.
 
