@@ -8,7 +8,7 @@ By Alicia Robertson
 - [References](#references)
 
 ## Overview
-
+This portfolio covers machine learning based skills and techniques learnt through this course.
 ## Portfolio Projects
 ### Classification
 - [Iris Data Classification](Classification/class.ipynb)
@@ -27,7 +27,6 @@ By Alicia Robertson
 - [scikit-learn tut](https://www.youtube.com/watch?v=M9Itm95JzL0)
 - [pickle](https://www.youtube.com/watch?v=6Q56r_fVqgw)
 
-## Further Reading
-
 ## References
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/datasets?Task=Regression&skip=0&take=10&sort=desc&orderBy=NumHits&search=)
+- [Cloud Factory](https://www.cloudfactory.com/training-data-guide#:~:text=What%20is%20training%20data%20in,want%20your%20model%20to%20predict.)
